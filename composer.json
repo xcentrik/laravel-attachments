@@ -1,12 +1,12 @@
 {
-  "name": "bnbwebexpertise/laravel-attachments",
+  "name": "xcentrik/laravel-attachments",
   "description": "Laravel package to link file attachment to models",
   "type": "package",
   "license": "MIT",
   "authors": [
     {
-      "name": "B&B Web Expertise",
-      "email": "support@bnb.re"
+      "name": "Xcentrik Online",
+      "email": "support@xcentrik.online"
     }
   ],
   "minimum-stability": "stable",
@@ -18,7 +18,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Bnb\\Laravel\\Attachments\\": "src/"
+      "Xcentrik\\Laravel\\Attachments\\": "src/"
     }
   }
 }
